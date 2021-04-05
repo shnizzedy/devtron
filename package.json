@@ -37,7 +37,7 @@
     "electron-prebuilt": "~1.4.13",
     "express": "^4.13.4",
     "husky": "^6.0.0",
-    "mocha": "^2.4.5",
+    "mocha": "^8.3.2",
     "spectron": "~3.2.3",
     "standard": "^6.0.8",
     "watchify": "^3.7.0"
